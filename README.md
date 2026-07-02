@@ -4,6 +4,8 @@ Hey there, I'm Parship 👋
 
 I'm a final-year undergraduate who loves software engineering and open source. I graduated from the **CNCF** - Jaeger, **LFX Mentorship Program (Term 1, 2026)**. I enjoy building full-stack applications, contributing to impactful projects, and continuously learning new technologies.
 
+You can explore my mentorship work and contributions [here](https://gist.github.com/parshipcy/5c32550b91da747c8efb3d9977f42b58)
+
 Currently working on:
 - Contributing to multiple open source projects
 - Building full-stack applications with React, TypeScript and Node.js
