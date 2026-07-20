@@ -32,6 +32,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [paperlite](https://github.com/parshipcy/paperlite) | A lightweight real-time multi-user document editor |
 | [mergebot](https://github.com/parshipcy/mergebot) | Automatically tracks merged PRs and updates your portfolio repo |
 
 #### Tech Stack:
