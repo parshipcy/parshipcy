@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>FullStack Engineer.</strong>
+      <strong>Software Engineer.</strong>
     </td>
     <td align="left">
       <strong>Building, Learning & Contributing.</strong>
